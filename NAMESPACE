@@ -1,0 +1,11 @@
+import(Matrix)
+import(MatrixModels)
+import(coda)
+importFrom("graphics", "arrows", "axis", "par", "points")
+importFrom("stats", "median", "rchisq", "rnorm", "runif")
+  
+export(RGEgibbs,bayes.posterior) 
+       
+S3method(summary, RGE)
+S3method(print, RGE)
+S3method(plot, RGE)

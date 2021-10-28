@@ -1,0 +1,17 @@
+32881c4663021a0fddbfe60c5f8e49c7 *DESCRIPTION
+608e64569ea7e2977b43e7f6786d3e41 *NAMESPACE
+adbbc6c7e77e7ae3a4dcc90ace498e57 *R/RGEgibbs.R
+704c11c18a7a158e2db9df36894ec284 *R/bayes.posterior.R
+b4d944909e91efdd723e8863610aa804 *R/methods.R
+0999d9414ca2eadb4b763f3e9ad29ba0 *build/partial.rdb
+4e315a9e8ca7278bece59ca8e4aa0718 *data/datalist
+3f02a0fca806c317a64863e7ec30b4a9 *data/datos.rda
+f639ac67c139427359d44b58391a1d74 *data/m1.rda
+623267373108a36d9b5263ac0e769213 *man/RGE-package.Rd
+242988d513c218e7bb253b307d9441a8 *man/RGEgibbs.Rd
+0c1df18e8129d5a7283a8f4d6ab283d6 *man/bayes.posterior.Rd
+eeffec4829ef85e78942acefc11e8770 *man/datos.Rd
+77371c85c774f8ed7083d2eccbab05c3 *man/m1.Rd
+fe1501e9c580162ae1a0b0b335c040eb *man/plot.RGE.Rd
+f046fdd5f7e3f07f4a54910f2aeb7fbc *man/print.RGE.Rd
+7beca566b21e0e85bb869299b2f74714 *man/summary.RGEgibbs.Rd
